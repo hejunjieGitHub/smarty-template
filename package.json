@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@hejunjietest/smarty-ui-vite": "^0.1.4",
     "vue": "^3.2.45"
   },
   "devDependencies": {
